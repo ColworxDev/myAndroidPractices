@@ -14,6 +14,8 @@ extends android.support.v4.app.FragmentActivity{
 	        SupportMapFragment fragment = new SupportMapFragment();
 	        getSupportFragmentManager().beginTransaction()
 	                .add(android.R.id.content, fragment).commit();
+
+/*testing2 commit*/
 	    }
 
 	
